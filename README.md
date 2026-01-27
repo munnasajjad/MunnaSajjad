@@ -40,3 +40,33 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+
+---
+
+## 🏢 Domain Experience
+
+### 👥 HR & Payroll Systems  
+- 🧾 Employee Information Management  
+- ⏱ Attendance & Leave Management  
+- 💰 Payroll Processing (Salary, Allowance, Deduction)  
+- 📊 HR & Payroll Reports  
+- 🔐 Secure & Role-based Data Handling  
+
+---
+
+### 📦 Inventory Management Systems  
+- 🏷 Item, Category & Sub-Category Management  
+- 📥 Stock In / 📤 Stock Out Tracking  
+- 🛒 Requisition & Purchase Workflow  
+- 🏪 Warehouse & Store Management  
+- 📈 Real-time Stock & Valuation Reports  
+
+---
+
+### 🧩 ERP Business Modules  
+- 🏗 Modular ERP Design & Development  
+- 🔗 Cross-Module Integration (HR, Inventory, Finance)  
+- ⚙ Business Process Automation  
+- 🧑‍💼 Role-based Access Control  
+- 📑 Management Reporting & Dashboards  
+
