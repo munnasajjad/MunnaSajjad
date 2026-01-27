@@ -16,7 +16,6 @@
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-0078D7?style=for-the-badge&logo=.net)
 ![ASP.NET Core Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=.net)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-black?style=for-the-badge&logo=archlinux)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops)
  
 ---
 
