@@ -1,4 +1,4 @@
-<span align="left"><img width="750" height="400" alt="image" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" /></span>
+<span align="left"><img width="750" height="400" alt="image" src="BIOImage.jpg" /></span>
 
 ## 🚀 Core Expertise
  
