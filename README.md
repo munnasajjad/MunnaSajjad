@@ -1,3 +1,5 @@
+![Uploading person-playing-3d-video-games-device.jpg…]()
+
 ## 🚀 Core Expertise
  
 - Full Stack Web Development (.NET & JavaScript Frameworks)
