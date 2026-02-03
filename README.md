@@ -1,4 +1,4 @@
-![Uploading person-playing-3d-video-games-device.jpg…]()
+![cyber-security-expert-working-with-technology-neon-lights.jpg](https://www.freepik.com/free-ai-image/cyber-security-expert-working-with-technology-neon-lights_236256890.htm#fromView=keyword&page=1&position=16&uuid=eea673c5-8211-4cce-a30c-7c65f39771ca&query=Coding+gif)
 
 ## 🚀 Core Expertise
  
