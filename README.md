@@ -1,3 +1,5 @@
+<span align="left"><img width="750" height="400" alt="image" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" /></span>
+
 ## 🚀 Core Expertise
  
 - Full Stack Web Development (.NET & JavaScript Frameworks)
