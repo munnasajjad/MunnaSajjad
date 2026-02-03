@@ -1,5 +1,3 @@
-![BIOImage.jpg](BIOImage.jpg)
-
 ## 🚀 Core Expertise
  
 - Full Stack Web Development (.NET & JavaScript Frameworks)
