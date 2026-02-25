@@ -1,4 +1,4 @@
-<span align="left"><img width="900" height="600" alt="image" src="BIOImage_1.jpg" /></span>
+<span align="left"><img width="500" height="300" alt="image" src="BIOImage_1.jpg" /></span>
 
 ## 🚀 Core Expertise
  
